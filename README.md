@@ -5,7 +5,7 @@ NYC taxi clustering project,
 
 <li>An area could be any zone of arbitrary size. Instead of partitioning Manhattan into neighborhoods, we will search for small zones with elevated tip. </li>
 
-<li>A Machine Learning k-means , Bisecting k-means and Gaussian Mixture algorithms will be leveraged to obtain areas of interest using PySpark</li>
+<li>Using PySpark, a machine learning k-means , bisecting k-means and gaussian mixture algorithms will be leveraged to obtain areas of interest,</li>
 
 <li>Each such an area is a cluster of Taxi rides with elevated tips. A cluster of Taxi rides will be later on called cluster.</li>
 </ul>
