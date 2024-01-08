@@ -1,5 +1,8 @@
-
-NYC taxi clustering project,
+### Technologies
+* PySpark
+* Spark ML
+  
+### Project description
 <ul>
 <li>A Taxi driver can be informed only of a neighborhood with an elevated tip, without a more precise location.That's why the solution developed was based on the administrative division of previouslyManhattan. </li>
 
